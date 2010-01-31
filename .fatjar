@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Jun 26 12:42:06 EDT 2009
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=enable-wordle-printing.jar
+manifest.mergeall=true
+manifest.mainclass=wordle.DoPolicy
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
